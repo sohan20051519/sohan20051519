@@ -1,48 +1,26 @@
-
-
 <h1 align="center">Hey there, I'm Sohan 👋</h1>
 
 <p align="center">
-  🚀 <strong>Cloud & DevOps Enthusiast</strong> | 🎨 UI/UX Designer
+  🚀 <strong>AI-Powered Developer</strong> | 🌩 Cloud & DevOps Enthusiast | 🎨 UI/UX Explorer
 </p>
 
 ---
 
-## 🌩 About Me
+## 🌟 About Me
 
-- 💻 Passionate about **Cloud Computing**, **Linux**, and **terminal-based workflows**.
-- ☁️ Currently diving deep into **AWS**, **Azure**, and **Google Cloud Platform**.
-- 🤖 Interested in **automation**, **CI/CD**, and **scalable distributed systems**.
-- 🎥 Bringing a **creative edge** from my background in cinematography and UI/UX design.
-- 📍 Studying at **KLE Society’s Degree College, Bengaluru**.
-- 🤝 Open to **internships, projects, and collaborations** in **tech** and **design**.
+- 💻 Passionate about **AI-assisted development**, **Cloud DevOps**, and **automation**.  
+- 🤖 Building projects using tools like **Cursor, Lovable.dev, and Google AI Studio** for rapid prototyping and deployment.  
+- ☁️ Exploring **AWS**, **Docker**, **GitHub Actions**, and **CI/CD pipelines**.  
+- 🎨 Bringing a **creative edge** from my interest in **UI/UX design** and user-focused solutions.  
+- 📍 Studying at **KLE Society’s Degree College, Bengaluru**.  
+- 🤝 Open to **internships, projects, and collaborations** in **AI, DevOps, and design**.
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp,linux,bash,docker,kubernetes,terraform,git,github,python,vercel,netlify" />
+  <strong>Cloud & DevOps:</strong> AWS | Docker | GitHub Actions | CI/CD | Supabase <br>
+  <strong>AI Tools:</strong> Cursor | Lovable.dev | Google AI Studio <br>
+  <strong>Frontend & Design:</strong> UI/UX Prototyping | Wireframing | User-focused Design
 </p>
-
----
-
-
-
-
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/sohan2005">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:sohan20051519@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-> _“Technology is best when it brings people together — and I aim to bridge creativity with innovation.”_
-
