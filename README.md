@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sohan</h1>
-<h3 align="center">💻 Full Stack Developer | Aspiring DevOps Engineer | Cloud Enthusiast</h3>
+<h3 align="center">🤖 AI-Driven Full Stack Developer | 🚀 Aspiring DevOps Engineer | ☁️ Cloud Enthusiast</h3>
 
 ---
 
