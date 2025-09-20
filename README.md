@@ -15,15 +15,15 @@
 ---
 
 ## 🛠️ Tech Stack
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=fff&style=for-the-badge)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=fff&style=for-the-badge)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=fff&style=for-the-badge)
-![Cursor](https://img.shields.io/badge/-Cursor-4285F4?logo=cursor&logoColor=fff&style=for-the-badge)
-![API](https://img.shields.io/badge/-API-FF6C37?logo=fastapi&logoColor=fff&style=for-the-badge)
-![Cloud](https://img.shields.io/badge/-Cloud-1DA1F2?logo=icloud&logoColor=fff&style=for-the-badge)
-![AI](https://img.shields.io/badge/-AI-8A2BE2?logo=openai&logoColor=fff&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/--%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Python](https://img.shields.io/badge/--%233776AB?style=for-the-badge&logo=python&logoColor=white)
+![AWS](https://img.shields.io/badge/--%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/--%23000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/--%2300C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Cursor](https://img.shields.io/badge/--%234285F4?style=for-the-badge&logo=cursor&logoColor=white)
+![API](https://img.shields.io/badge/--%23000000?style=for-the-badge&logo=swagger&logoColor=white)
+![Cloud](https://img.shields.io/badge/--%2300AEEF?style=for-the-badge&logo=icloud&logoColor=white)
+![AI](https://img.shields.io/badge/--%23000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
