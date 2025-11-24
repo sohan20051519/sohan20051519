@@ -15,10 +15,11 @@
 ---
 
 ## 🌟 Featured Projects
-- 🌐 [**Portfolio**](https://sohan.app) – Showcasing my skills & certifications  
-- 🎯 [**MATRIX 2K25**](https://klematrix2k25.in) – Full-stack AI-driven event website  
+- 🌐 [**Portfolio**](https://sohan.app) – Showcasing my skills & certifications
+- ⚙️ [**VibeFresh**](https://vibe-fresh.vercel.app) – AI-powered DevOps automation platform 
+- 🎯 [**MATRIX 2K25**](https://klematrix2k25.in) – AI-driven event website  
 - 🤖 [**Nammai**](https://nammai.live) – Conversational AI chatbot  
-- ⚙️ [**OneOps-18**](https://oneops-18.vercel.app) – AI-powered DevOps automation platform  
+ 
 
 ---
 
